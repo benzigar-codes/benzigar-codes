@@ -9,5 +9,5 @@ I'm currently working as a Sr. Full Stack Developer at [Pepul Private Tech](http
 - Vercel, Planetscale, DigitalOcean
 
 ### Other Github Profiles 🥳
-- [Benzigar](http://github.com/benzigar-pepul) : My Github Profile Account with [Pepul Private Tech](https://pepul.com/)
+- [Benzigar](http://github.com/benzigar-pepul)(11K+ Contributions) : My Github Profile Account with [Pepul Private Tech](https://pepul.com/)
 - [24code.in](https://github.com/24code-apps) : My organisation Github Profile for [24code.in](https://www.24code.in)
