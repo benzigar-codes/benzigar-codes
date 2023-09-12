@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-I'm currently working as a Sr. Full Stack Developer at [Pepul Private Tech](https://pepul.com/) for survival and I'm also building a open source and saas based startup [24code.in](https://www.24code.in) as a founder and developer. Your contributions are welcome. 😊
+I'm currently working as a Sr. Full Stack Developer at [Pepul Private Tech](https://pepul.com/) for survival. Your contributions are welcome. 😊
 
 ### Skillset 👨🏻‍💻
 - Next JS, React, Node, TailwindCSS, MYSQL, Mongo, Socket.io, Redis, Graphql
@@ -12,7 +12,6 @@ I'm currently working as a Sr. Full Stack Developer at [Pepul Private Tech](http
 
 ### Other Github Profiles 🥳
 - [Benzigar](https://www.github.com/benzigar-pepul) (11K+ Contributions) : My Github Profile Account with [Pepul Private Tech](https://pepul.com/).
-- [24code.in](https://www.github.com/24code-apps) : My organisation Github Profile for [24code.in](https://www.24code.in)
 
 ### Work Experiences 🗂
 <details>
